@@ -72,9 +72,9 @@ Graduated from HKU since 2025, currently I am fullstack developer building scala
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xfdxfdxfd&show_icons=true&hide_border=true&bg_color=000000&title_color=f59e0b&text_color=ffffff&icon_color=f59e0b&border_radius=0" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfdxfdxfd&layout=compact&hide_border=true&bg_color=000000&title_color=f59e0b&text_color=ffffff&icon_color=f59e0b&border_radius=0" />
+<a href="https://github.com/xfdxfdxfd">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=xfdxfdxfd&hide_border=true&background=000000&stroke=000000&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b&sideNums=ffffff&currStreakLabel=f59e0b&sideLabels=ffffff&dates=ffffff&border_radius=0" />
+</a>
 
 </div>
 
