@@ -14,7 +14,7 @@
   ── ABOUT ──────────────────────────────────────────
 ```
 
-Graduated from HKU since 2025, currently I am fullstack developer building scalable web apps and games with custom user-centric interfaces up front, robust backend architectures behind.
+An HKU graduate (Class of 2025), I am a full-stack developer building scalable web apps and games. I combine user-centric frontends with robust backends, hosting them seamlessly as cloud services and microservices.
 
 <br/>
 
@@ -86,7 +86,7 @@ Graduated from HKU since 2025, currently I am fullstack developer building scala
 
 <div align="center">
 
-Open to full-stack roles & collaborations
+Open to full-stack, devOpt roles & collaborations
 
 [![Email](https://img.shields.io/badge/Email-xdffxdwork@gmail.com-000000?style=flat-square&logo=gmail&logoColor=f59e0b)](mailto:xdffxdwork@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-xfdxfdxfd.work-000000?style=flat-square&logo=link&logoColor=f59e0b)](https://xfdxfdxfd.work/)
