@@ -10,17 +10,21 @@
 
 <br/>
 
-```text
-  ── ABOUT ──────────────────────────────────────────
-```
+<div align="center">
 
-An HKU graduate (Class of 2025), I am a full-stack developer building scalable web apps and games. I combine user-centric frontends with robust backends, hosting them seamlessly as cloud services and microservices.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=48&section=header&text=ABOUT&fontSize=24&fontColor=f59e0b&fontAlignY=55&fontAlign=8" />
+
+</div>
+
+<div align="center">An HKU graduate (Class of 2025), I am a full-stack developer building scalable web apps and games. I combine user-centric frontends with robust backends, hosting them seamlessly as cloud services and microservices.</div>
 
 <br/>
 
-```text
-  ── STACK ──────────────────────────────────────────
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=48&section=header&text=STACK&fontSize=24&fontColor=f59e0b&fontAlignY=55&fontAlign=8" />
+
+</div>
 
 <div align="center">
 
@@ -66,9 +70,11 @@ An HKU graduate (Class of 2025), I am a full-stack developer building scalable w
 
 <br/>
 
-```text
-  ── METRICS ────────────────────────────────────────
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=48&section=header&text=METRICS&fontSize=24&fontColor=f59e0b&fontAlignY=55&fontAlign=8" />
+
+</div>
 
 <div align="center">
 
@@ -80,13 +86,15 @@ An HKU graduate (Class of 2025), I am a full-stack developer building scalable w
 
 <br/>
 
-```text
-  ── CONNECT ────────────────────────────────────────
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=48&section=header&text=CONNECT&fontSize=24&fontColor=f59e0b&fontAlignY=55&fontAlign=8" />
+
+</div>
 
 <div align="center">
 
-Open to full-stack, devOpt roles & collaborations
+<div>Open to full-stack, devOpt roles & collaborations </div>
 
 [![Email](https://img.shields.io/badge/Email-xdffxdwork@gmail.com-000000?style=flat-square&logo=gmail&logoColor=f59e0b)](mailto:xdffxdwork@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-xfdxfdxfd.work-000000?style=flat-square&logo=link&logoColor=f59e0b)](https://xfdxfdxfd.work/)
